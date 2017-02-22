@@ -1,0 +1,25 @@
+{
+  "name": "aspdev",
+  "version": "0.0.1",
+  "description": "bjsasc developer tool asp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weicracker/aspdev.git"
+  },
+  "keywords": [
+    "asp"
+  ],
+  "author": "weicracker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weicracker/aspdev/issues"
+  },
+  "homepage": "https://github.com/weicracker/aspdev#readme",
+  "dependencies": {
+    "asar": "^0.13.0"
+  }
+}
